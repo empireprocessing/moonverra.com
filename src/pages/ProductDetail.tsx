@@ -209,21 +209,43 @@ export default function ProductDetail() {
             }
           >
             <div className="space-y-4 font-sans text-sm text-[#2c2f5e]">
-              <p className="font-semibold">{product.servings}</p>
-              <div>
-                <p className="font-bold text-[#1a173b] mb-1">Active ingredients</p>
-                <ul className="space-y-1">
-                  {product.actives.map((a) => (
-                    <li key={a.name} className="flex justify-between border-b border-[#1a173b]/10 py-1">
-                      <span>{a.name}</span>
-                      <span className="font-semibold">{a.amount}</span>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-              <div>
-                <p className="font-bold text-[#1a173b] mb-1">Other ingredients</p>
-                <p>{product.inactives.join(", ")}</p>
+              {/* Supplement Facts panel */}
+              <div className="border-2 border-[#1a173b] bg-white max-w-md">
+                <div className="bg-[#1a173b] px-4 py-2">
+                  <p className="font-black uppercase tracking-wide text-[#fde68a] text-base">
+                    Supplement Facts
+                  </p>
+                </div>
+                <div className="px-4 py-2 border-b-4 border-[#1a173b] text-xs text-[#4b476d]">
+                  <p className="font-semibold text-[#1a173b]">{product.format}</p>
+                  <p>{product.servings}</p>
+                </div>
+                <table className="w-full text-sm">
+                  <thead>
+                    <tr className="border-b-2 border-[#1a173b]">
+                      <th className="text-left font-bold text-[#1a173b] px-4 py-1.5">
+                        Ingredient
+                      </th>
+                      <th className="text-right font-bold text-[#1a173b] px-4 py-1.5">
+                        Amount per serving
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {product.actives.map((a) => (
+                      <tr key={a.name} className="border-b border-[#1a173b]/15">
+                        <td className="text-left px-4 py-1.5">{a.name}</td>
+                        <td className="text-right font-semibold text-[#1a173b] px-4 py-1.5 whitespace-nowrap">
+                          {a.amount}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+                <div className="px-4 py-2 border-t-4 border-[#1a173b]">
+                  <p className="font-bold text-[#1a173b] text-xs">Other ingredients</p>
+                  <p className="text-xs">{product.inactives.join(", ")}</p>
+                </div>
               </div>
               <div>
                 <p className="font-bold text-[#1a173b] mb-1">Directions</p>

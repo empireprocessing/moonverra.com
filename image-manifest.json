@@ -1,118 +1,118 @@
 [
   {
     "file": "Herophoto.jpeg",
-    "prompt": "Wide landscape premium product photograph of several sleep-and-relaxation supplement products arranged on a smooth dark surface in a calm nighttime bedside scene: an amber glass gummy jar, a deep indigo capsule bottle, a kraft-amber herbal tea box, and a small spray bottle, softly lit with warm amber light and cool lavender shadows, a hint of a glowing full moon and soft bokeh in the dark navy background. Deep indigo / night-navy mood with soft lavender and warm amber accents, luxurious and serene. Generous empty negative space in the top-center of the frame for a button overlay. Photorealistic, soft focus depth, elegant wellness branding. No text, no letters, no numbers, no logos, no watermarks."
+    "prompt": "Wide landscape premium product photograph of several real sleep-and-relaxation supplement products arranged together on a smooth dark surface in a calm nighttime bedside scene: an amber glass gummy jar with a matte indigo lid, a white pill bottle with a navy cap, a kraft-and-indigo herbal tea carton box, and a small frosted spray bottle, softly lit with warm amber light and cool lavender shadows, a hint of a glowing full moon and soft bokeh in the deep navy background. Deep indigo / night-navy mood with soft lavender and warm amber accents, luxurious and serene. Generous empty negative space in the top-center of the frame for a button overlay. Photorealistic, soft focus depth, elegant wellness aesthetic. No text, no letters, no numbers, no logos, no watermarks."
   },
   {
     "file": "product1.jpeg",
-    "prompt": "Premium front packshot of an amber-tinted glass supplement jar of melatonin sleep gummies, matte deep-indigo lid, a crisp clean premium label with exactly two lines of text: the wordmark 'MOONVERRA' at the top, and underneath the product name spelled exactly M-E-L-A-T-O-N-I-N space G-U-M-M-I-E-S ('Melatonin Gummies'), plus a small moon motif and warm amber accent line. Spell every letter correctly, especially 'Melatonin'. Seamless soft deep-indigo to lavender gradient background, soft studio lighting with gentle reflection, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
+    "prompt": "Premium front packshot of an amber-tinted glass wide-mouth gummy jar of melatonin sleep gummies, matte deep-indigo screw lid, filled with soft lavender-purple gummies clearly visible through the glass, with a few lavender gummies resting beside the jar on the surface. The crisp clean premium label has exactly two lines of text: the wordmark 'MOONVERRA' on the first line and the product name 'Melatonin Gummies' on the second line, plus a small crescent-moon motif and a warm amber accent line. Spell every letter correctly, especially 'Melatonin'. Seamless soft deep-indigo to lavender gradient background, soft studio lighting with gentle reflection, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
   },
   {
     "file": "product1-a.jpeg",
     "ref": "product1.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same amber glass jar, same indigo lid, same label and text 'MOONVERRA' / 'Melatonin Gummies'. Now show an extreme macro detail shot of the jar's shoulder and label with a few soft lavender-purple gummies spilling beside it on a dark surface, warm amber rim light, shallow depth of field. Deep indigo nighttime mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same amber glass wide-mouth jar, same matte indigo lid, same two-line label 'MOONVERRA' / 'Melatonin Gummies'. Now an extreme macro detail shot of the jar's shoulder and label with a generous pile of soft lavender-purple gummies spilling beside it on a dark surface, warm amber rim light, shallow depth of field, deep indigo nighttime mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product1-b.jpeg",
     "ref": "product1.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same amber glass jar, same indigo lid, same label and text 'MOONVERRA' / 'Melatonin Gummies'. Now a calm lifestyle composition on a nightstand next to a dimly glowing lamp and a folded knit throw, soft moonlight through a window, cozy nighttime bedroom bokeh in deep indigo and amber tones. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same amber glass jar, same indigo lid, same two-line label 'MOONVERRA' / 'Melatonin Gummies'. Now a calm nighttime-bedroom lifestyle composition: the jar on a nightstand next to a dimly glowing lamp and a folded knit throw, soft moonlight through a window, cozy bedroom bokeh in deep indigo and amber tones. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product2.jpeg",
-    "prompt": "Premium front packshot of a deep-indigo matte supplement bottle of magnesium capsules, soft lavender cap, a crisp clean premium label clearly reading the wordmark 'MOONVERRA' at the top and 'Magnesium Capsules' below it, with a subtle moon motif and warm amber accent line. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
+    "prompt": "Premium front packshot of a white HDPE plastic supplement pill bottle of magnesium capsules with a glossy navy-blue cap and a clean white label with navy and warm-amber accents, a few off-white capsules resting beside the bottle on the surface. The crisp clean premium label has exactly two lines of text: the wordmark 'MOONVERRA' on the first line and the product name 'Magnesium Capsules' on the second line, with a subtle crescent-moon motif. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
   },
   {
     "file": "product2-a.jpeg",
     "ref": "product2.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same deep-indigo bottle, same lavender cap, same label and text 'MOONVERRA' / 'Magnesium Capsules'. Now an extreme macro detail of the label and a few off-white capsules resting beside the open bottle on a dark surface, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same white HDPE bottle, same navy cap, same two-line label 'MOONVERRA' / 'Magnesium Capsules'. Now an extreme macro detail of the label and several off-white capsules resting beside the open bottle on a dark surface, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product2-b.jpeg",
     "ref": "product2.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same deep-indigo bottle, same lavender cap, same label and text 'MOONVERRA' / 'Magnesium Capsules'. Now a serene lifestyle scene on a bathroom shelf at night with a glass of water and a small eucalyptus sprig, soft moonlight, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same white HDPE bottle, same navy cap, same two-line label 'MOONVERRA' / 'Magnesium Capsules'. Now a serene nighttime lifestyle scene on a bathroom shelf with a glass of water and a small eucalyptus sprig, soft moonlight, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product3.jpeg",
-    "prompt": "Premium front packshot of a kraft-amber herbal tea box for an evening relaxation blend, deep-indigo printed panel, a crisp clean premium design clearly reading the wordmark 'MOONVERRA' at the top and 'Evening Herbal Tea' below it, with a crescent moon and soft lavender-and-chamomile botanical illustration and warm amber accents. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
+    "prompt": "Premium front packshot of a kraft-and-deep-indigo printed carton box for an evening relaxation herbal tea, standing upright, with several loose pyramid tea sachets arranged in front of the box on the surface. The crisp clean premium design has exactly two lines of text: the wordmark 'MOONVERRA' on the first line and the product name 'Evening Herbal Tea' on the second line, with a crescent moon and a soft lavender-and-chamomile botanical illustration and warm amber accents. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
   },
   {
     "file": "product3-a.jpeg",
     "ref": "product3.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same kraft-amber tea box, same design and text 'MOONVERRA' / 'Evening Herbal Tea'. Now a macro detail of the box edge beside a single pyramid tea bag and a few dried chamomile flowers and lavender buds on a dark surface, warm amber light, shallow depth of field, deep indigo mood. Keep the text spelling correct. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and design, same kraft-and-indigo tea carton box, same two-line text 'MOONVERRA' / 'Evening Herbal Tea'. Now a macro detail of the box edge beside two pyramid tea sachets and a few dried chamomile flowers and lavender buds scattered on a dark surface, warm amber light, shallow depth of field, deep indigo mood. Keep the text spelling correct. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product3-b.jpeg",
     "ref": "product3.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same kraft-amber tea box, same design and text 'MOONVERRA' / 'Evening Herbal Tea'. Now a cozy lifestyle scene with a steaming cup of golden herbal tea beside the box on a dark wooden table at night, soft steam, warm amber glow and deep indigo bokeh. Keep the text spelling correct and readable. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and design, same kraft-and-indigo tea carton box, same two-line text 'MOONVERRA' / 'Evening Herbal Tea'. Now a cozy nighttime lifestyle scene with a steaming cup of golden herbal tea beside the box on a dark wooden table, soft rising steam, warm amber glow and deep indigo bokeh. Keep the text spelling correct and readable. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product4.jpeg",
-    "prompt": "Premium front packshot of a deep-indigo matte supplement bottle of L-theanine capsules, soft amber cap, a crisp clean premium label clearly reading the wordmark 'MOONVERRA' at the top and 'L-Theanine Capsules' below it, with a subtle moon motif and warm amber accent line. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
+    "prompt": "Premium front packshot of a slim tall amber translucent glass supplement pill bottle of L-theanine capsules with a soft-lavender cap, distinctly narrower and taller than a standard bottle, a few clear capsules resting beside it on the surface. The crisp clean premium label has exactly two lines of text: the wordmark 'MOONVERRA' on the first line and the product name 'L-Theanine Capsules' on the second line, with a subtle crescent-moon motif and a warm amber accent line. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
   },
   {
     "file": "product4-a.jpeg",
     "ref": "product4.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same deep-indigo bottle, same amber cap, same label and text 'MOONVERRA' / 'L-Theanine Capsules'. Now a macro detail of the label with a few clear capsules beside the bottle on a dark surface, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same slim tall amber glass bottle, same lavender cap, same two-line label 'MOONVERRA' / 'L-Theanine Capsules'. Now a macro detail of the label with several clear capsules beside the bottle on a dark surface, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product4-b.jpeg",
     "ref": "product4.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same deep-indigo bottle, same amber cap, same label and text 'MOONVERRA' / 'L-Theanine Capsules'. Now a calm lifestyle scene on a minimalist desk at night with a softly glowing candle and an open book, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same slim tall amber glass bottle, same lavender cap, same two-line label 'MOONVERRA' / 'L-Theanine Capsules'. Now a calm nighttime lifestyle scene on a minimalist desk with a softly glowing candle and an open book, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product5.jpeg",
-    "prompt": "Premium front packshot of a small 20ml frosted deep-indigo oral spray bottle (melatonin spray) with a fine-mist pump top, a crisp clean premium label clearly reading the wordmark 'MOONVERRA' at the top and 'Melatonin Spray' below it, with a tiny moon motif and warm amber accent. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
+    "prompt": "Premium front packshot of a small 20ml frosted glass fine-mist oral spray bottle of melatonin spray filled with faintly navy-tinted liquid, a slim fine-mist pump top. The crisp clean premium label has exactly two lines of text: the wordmark 'MOONVERRA' on the first line and the product name 'Melatonin Spray' on the second line, with a tiny crescent-moon motif and warm amber accent. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
   },
   {
     "file": "product5-a.jpeg",
     "ref": "product5.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same small frosted indigo spray bottle, same pump top, same label and text 'MOONVERRA' / 'Melatonin Spray'. Now an extreme macro of the spray nozzle and label with a faint mist in warm amber backlight on a dark surface, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same small frosted glass spray bottle with navy-tinted liquid, same fine-mist pump top, same two-line label 'MOONVERRA' / 'Melatonin Spray'. Now an extreme macro of the spray nozzle and label with a faint fine mist caught in warm amber backlight on a dark surface, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product5-b.jpeg",
     "ref": "product5.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same small frosted indigo spray bottle, same pump top, same label and text 'MOONVERRA' / 'Melatonin Spray'. Now a travel-lifestyle scene with the small bottle resting on a dark nightstand beside a sleep mask and a phone face-down, soft moonlight, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same small frosted glass spray bottle, same pump top, same two-line label 'MOONVERRA' / 'Melatonin Spray'. Now a travel-lifestyle nighttime scene with the small bottle resting on a dark nightstand beside a sleep mask and a phone face-down, soft moonlight, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product6.jpeg",
-    "prompt": "Premium front packshot of a deep-indigo matte supplement bottle of passionflower capsules, soft lavender cap, a crisp clean premium label clearly reading the wordmark 'MOONVERRA' at the top and 'Passionflower Capsules' below it, with a subtle passionflower-and-moon motif and warm amber accent line. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
+    "prompt": "Premium front packshot of a matte navy-blue supplement pill bottle of passionflower capsules with a soft-amber cap, a few beige capsules resting beside it on the surface. The crisp clean premium label has exactly two lines of text: the wordmark 'MOONVERRA' on the first line and the product name 'Passionflower Capsules' on the second line, with a subtle passionflower-and-moon motif and a warm amber accent line. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
   },
   {
     "file": "product6-a.jpeg",
     "ref": "product6.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same deep-indigo bottle, same lavender cap, same label and text 'MOONVERRA' / 'Passionflower Capsules'. Now a macro detail of the label beside a single purple passionflower bloom and a few capsules on a dark surface, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same matte navy bottle, same amber cap, same two-line label 'MOONVERRA' / 'Passionflower Capsules'. Now a macro detail of the label beside a single purple passionflower bloom and several beige capsules on a dark surface, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product6-b.jpeg",
     "ref": "product6.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same deep-indigo bottle, same lavender cap, same label and text 'MOONVERRA' / 'Passionflower Capsules'. Now a serene lifestyle scene on a windowsill at night with trailing greenery and soft moonlight, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same matte navy bottle, same amber cap, same two-line label 'MOONVERRA' / 'Passionflower Capsules'. Now a serene nighttime lifestyle scene on a windowsill with trailing greenery and soft moonlight, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product7.jpeg",
-    "prompt": "Premium front packshot of an amber-tinted glass supplement jar of lemon balm gummies, matte deep-indigo lid, a crisp clean premium label clearly reading the wordmark 'MOONVERRA' at the top and 'Lemon Balm Gummies' below it, with a lemon-and-leaf motif, a small moon and warm amber accent line. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
+    "prompt": "Premium front packshot of a white frosted glass wide-mouth gummy jar of lemon balm gummies with a soft-lavender screw lid, filled with pale green gummies clearly visible through the frosted glass, with a few pale-green gummies resting beside the jar on the surface. The crisp clean premium label has exactly two lines of text: the wordmark 'MOONVERRA' on the first line and the product name 'Lemon Balm Gummies' on the second line, with a small leaf-and-moon motif and a warm amber accent line. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
   },
   {
     "file": "product7-a.jpeg",
     "ref": "product7.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same amber glass jar, same indigo lid, same label and text 'MOONVERRA' / 'Lemon Balm Gummies'. Now a macro detail with a few golden-yellow gummies and a fresh lemon balm leaf beside the jar on a dark surface, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same white frosted glass jar, same lavender lid, same two-line label 'MOONVERRA' / 'Lemon Balm Gummies'. Now a macro detail with several pale-green gummies and a fresh lemon balm leaf beside the jar on a dark surface, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product7-b.jpeg",
     "ref": "product7.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same amber glass jar, same indigo lid, same label and text 'MOONVERRA' / 'Lemon Balm Gummies'. Now a bright-yet-calm lifestyle scene on a kitchen counter at dusk with soft warm light and a sprig of lemon balm, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same white frosted glass jar, same lavender lid, same two-line label 'MOONVERRA' / 'Lemon Balm Gummies'. Now a calm nighttime lifestyle scene on a kitchen counter with soft warm light and a sprig of lemon balm, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product8.jpeg",
-    "prompt": "Premium front packshot of a large deep-indigo matte supplement tub (300g powder) of glycine powder with a wide soft-lavender screw lid, a crisp clean premium label clearly reading the wordmark 'MOONVERRA' at the top and 'Glycine Powder' below it, with a subtle moon motif and warm amber accent line. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
+    "prompt": "Premium front packshot of a wide matte deep-indigo powder tub (300g) of glycine powder with a wide soft-lavender screw lid, a scoop of fine white powder and a small mound of loose white powder in front of the tub on the surface. The crisp clean premium label has exactly two lines of text: the wordmark 'MOONVERRA' on the first line and the product name 'Glycine Powder' on the second line, with a subtle crescent-moon motif and a warm amber accent line. Seamless soft deep-indigo to lavender gradient background, soft studio lighting, centered, photorealistic, high-end nighttime wellness aesthetic. The label text must be spelled correctly and legible. No other text, no extra logos, no watermarks."
   },
   {
     "file": "product8-a.jpeg",
     "ref": "product8.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same large indigo tub, same lavender lid, same label and text 'MOONVERRA' / 'Glycine Powder'. Now a macro detail of the open tub with a scoop of fine white powder and the label visible, on a dark surface, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same wide matte indigo tub, same lavender lid, same two-line label 'MOONVERRA' / 'Glycine Powder'. Now a macro detail of the open tub with a scoop of fine white powder and loose powder on a dark surface with the label visible, warm amber rim light, shallow depth of field, deep indigo mood. Keep the label spelling correct. No new text, no extra logos, no watermarks."
   },
   {
     "file": "product8-b.jpeg",
     "ref": "product8.jpeg",
-    "prompt": "Reproduce EXACTLY this product, same large indigo tub, same lavender lid, same label and text 'MOONVERRA' / 'Glycine Powder'. Now a lifestyle scene with the tub beside a glass of water being stirred on a dark counter at night, soft moonlight, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
+    "prompt": "Reproduce EXACTLY this product and label, same wide matte indigo tub, same lavender lid, same two-line label 'MOONVERRA' / 'Glycine Powder'. Now a nighttime lifestyle scene with the tub beside a glass of water being stirred with a spoon on a dark counter, soft moonlight, deep indigo and amber tones, gentle bokeh. Keep the label spelling correct and readable. No new text, no extra logos, no watermarks."
   }
 ]
