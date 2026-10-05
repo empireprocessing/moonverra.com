@@ -60,17 +60,25 @@ export default function Home() {
 
   return (
     <div className="bg-[#fdfbf7]">
-      {/* HERO — full-bleed photo, no text, single Shop Now button */}
+      {/* HERO — full-bleed photo with headline + centered CTA */}
       <section className="relative w-full h-[72vh] min-h-[460px] max-h-[760px] overflow-hidden bg-[#1a173b]">
         <img
           src="/Herophoto.jpeg"
           alt="Moonverra sleep and relaxation supplements in a calm nighttime setting"
-          className="absolute inset-0 w-full h-full object-cover"
+          className="absolute inset-0 w-full h-full object-cover object-[center_85%]"
         />
-        <div className="absolute inset-x-0 top-[14%] flex justify-center">
+        {/* subtle top scrim for headline legibility — keeps products below bright */}
+        <div className="pointer-events-none absolute inset-x-0 top-0 h-3/5 bg-gradient-to-b from-[#12102e]/80 via-[#12102e]/35 to-transparent" />
+        <div className="absolute inset-x-0 top-0 pt-[7%] sm:pt-[6%] px-6 flex flex-col items-center text-center">
+          <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl font-black text-white leading-[1.05] max-w-3xl drop-shadow-[0_2px_14px_rgba(0,0,0,0.65)]">
+            Sleep Deeply, Wake Restored
+          </h1>
+          <p className="font-sans text-[#e6e8f6] text-base sm:text-lg mt-4 max-w-xl drop-shadow-[0_1px_10px_rgba(0,0,0,0.8)]">
+            Premium nighttime nutraceuticals for calmer evenings and deeper rest.
+          </p>
           <button
             onClick={() => navigate("/shop")}
-            className="bg-[#fde68a] text-[#1a173b] font-sans font-bold uppercase tracking-widest text-sm px-10 py-4 border-2 border-[#1a173b] shadow-[6px_6px_0_rgba(26,23,59,1)] hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all"
+            className="mt-8 bg-[#fde68a] text-[#1a173b] font-sans font-bold uppercase tracking-widest text-sm px-10 py-4 border-2 border-[#1a173b] shadow-[6px_6px_0_rgba(26,23,59,1)] hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all"
           >
             Shop Now
           </button>
